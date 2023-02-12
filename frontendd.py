@@ -134,7 +134,7 @@ if(flag==1):
 # Email credentials
         from_email = "akaur1_be20@thapar.edu"
         to_email = Email
-        password = "avneeT7#k"
+        password = "jjngijzugdxmhpwl"
 
 # Email settings
         subject = "Zip file attached"
